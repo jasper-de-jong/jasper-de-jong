@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I have worked for 12 years as a biomedical researcher and am now in the middle of switching to a career in data science. I am working on making the switch to bioinformatics and data communication.
-I’m currently working on projects analyzing lipidomics and microbiome data which I am using as tools to learn new data skills. I am currently expanding my knowledge of biostatistics and data visualization using Excel, SQL and R so far. 
+I am biomedical scientist with 12 years of experience in academic research. Along the way I have become interest in everything data and am now looking to switch out of academia into data analytics.
+
+I have some portfolio projects here, and in the future also my code and analyses of published research projects.
+Check out my portfolio page [HERE](https://jasper-de-jong.github.io/portfolio/). 
 
 <!--
 **jasper-de-jong/jasper-de-jong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
